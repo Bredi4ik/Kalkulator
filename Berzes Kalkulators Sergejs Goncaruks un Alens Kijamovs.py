@@ -1,4 +1,4 @@
-#Sergejs Goncaruks Alens Kijamovs 10a
+
 
 #μ=Fb/Fr
 #Fb=μ*Fr
@@ -263,5 +263,3 @@ adpogudel3.grid(row=3, column=11, pady=5, padx=10)
 
 logs.mainloop()
 
-
-#Sergejs Goncaruks Alens Kijamovs 10a
